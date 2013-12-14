@@ -3,3 +3,22 @@ body {
   text-align: center;
   font-family: "Roboto", Arial, sans-serif;
 }
+
+ul.menu-list {
+	float: left;
+  padding: 10px;
+  color: white;
+  background-color: #999;
+}
+
+.menu-list li {
+  margin: 0;
+	list-style: none;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.menu-list li i {
+  float: left;
+  margin-right: 10px;
+}
